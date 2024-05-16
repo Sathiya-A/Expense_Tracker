@@ -4,7 +4,7 @@ Credentials:
 Username:demo@gmail.com
 password:demo
 
-We can delete/Edit under each category.There will be a pie chart which will show the income/expense percentage.
+We can delete/Edit under each category.There will be a pie chart which will visualize the income/expenses.
 
 Prerequisites Node.js (version 19 or above) must be installed on your machine. Installation Clone the repository:
 
